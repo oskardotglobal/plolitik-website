@@ -1,0 +1,53 @@
+---
+import Nav from "./Nav.astro";
+import { getImage } from "astro:assets";
+import background from "../assets/1.png";
+
+const optimizedBackground = await getImage({src: background})
+---
+
+<main>
+    <Nav />
+
+    <section id="content" style={`background-image: url(${optimizedBackground.src})`}>
+        <div>
+            <h1>SOZIALE SICHERHEIT</h1>
+            <h2>Klimasicherheit</h2>
+        </div>
+    </section>
+</main>
+
+<style>
+    main {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 12fr;
+        height: 100%;
+        width: 100%;
+    }
+
+    #content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    h1, h2 {
+        font-family: sans-serif;
+        color: white;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 6em;
+        font-weight: bold;
+    }
+
+    h2 {
+        font-size: 4em;
+        margin-top: 0;
+    }
+</style>
