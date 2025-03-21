@@ -8,7 +8,7 @@
 import { Box as Box, Fragment as Fragment_1, Slot as Slot, HtmlEmbed as HtmlEmbed, Heading as Heading, Paragraph as Paragraph, Bold as Bold, Text as Text, Image as Image } from "@webstudio-is/sdk-components-react";
 
 
-      export const siteName = "Visual Designer";
+      export const siteName = "Europa - sozialer und sicherer durch Klimaschutz?";
 
       export const breakpoints = [{"id":"jAWQK3_7D18H_5v0pK0z4"},{"id":"mONS0so-VrF1uS9rPlVcF","maxWidth":991},{"id":"zGIdqUzdPde7sHmF0aRQP","maxWidth":767},{"id":"wP-rcJFENR2yn86VzREAn","maxWidth":479}];
 

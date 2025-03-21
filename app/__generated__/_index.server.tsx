@@ -21,9 +21,9 @@ export const getResources = (_props: { system: System }) => {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "Visual Designer",
-    description: "Visual designer that will create a strong, memorable brand with a custom design that brings your vision to life and engages your audience.",
-    excludePageFromSearch: false,
+    title: "Europa - sozialer und sicherer durch Klimaschutz?",
+    description: "Ein Schülerprojekt",
+    excludePageFromSearch: true,
     language: undefined,
     socialImageAssetName: undefined,
     socialImageUrl: undefined,
