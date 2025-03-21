@@ -162,6 +162,58 @@ className={`w-paragraph`}>
 tag={"section"}
 className={`w-box c33xfh3 c1mzb2kd`}>
 <Box
+className={`w-box c1357293 c9jnjeu c5tmc3l c1ldum37 czr2pxy c155uc7w cry9bxc c1lfjoq7 ca4qjwu c1cdc69r`}>
+<Box
+className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c16xs6ny ct02u4h cuj80l1`}>
+<Heading
+tag={"h2"}
+className={`w-heading c1dxq9cf c10r87ok c11dowh9 c32myit cwrra4i c74kosi c12sm2j2 c1dhz37v`}>
+{"Stopp des Klimawandels"}
+</Heading>
+<Paragraph
+className={`w-paragraph c1nkzcyu c3fmn7t czt9u4x c12sm2j2 c1qom380 c1dhz37v`}>
+{"Ein vollständiger Stopp des menschengemachten Klimawandels erfordert umfassende auf allen Ebenen. Allerdings können Maßnahmen auf lokaler Ebene auch dazu beitragen — für uns heißt das klimafreundliche Infrastruktur in Städten. "}
+</Paragraph>
+</Box>
+<Box
+className={`w-box copqmak c10zkoym ct8c5y2 cevxs5e cx6c9kw c174sw29`}>
+<Box
+className={`w-box cry9bxc c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 cdsjpcc c1fd0kk1 cl8xzcs c11gzs80 cv2gy63 cxn73lu c5dy17i c1hsfuam cg37ob1 c16xs6ny ce02iuh`}>
+<Heading
+tag={"h3"}
+className={`w-heading cuoke4w c11dowh9 c32myit cwrra4i`}>
+{"Verkehrsinfrastruktur"}
+</Heading>
+<Paragraph
+className={`w-paragraph`}>
+{"Zu dem Punkt eines nachhaltigeren Verkehrs bieten sich Lösungen wie autofreie Zonen und Geschwindigkeitsbegrenzungen an."}
+{""}
+<br />
+{""}
+{"Stark zusammenhängend mit dem nachhaltigem Verkehr ist ebenfalls die Förderung öffentlicher Infrastruktur. Für sie ist vor allem der Ausbau von Radwegen oder die Verbesserung des ÖPNVs wichtig. Je nach Weg den die Politik wählt kann außerdem kostenloser ÖPNV oder ein Verbot von Autos helfen."}
+</Paragraph>
+</Box>
+<Box
+className={`w-box cry9bxc c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 cdsjpcc c1fd0kk1 cl8xzcs c11gzs80 cv2gy63 cxn73lu c5dy17i c1hsfuam cg37ob1 c16xs6ny ce02iuh`}>
+<Heading
+tag={"h3"}
+className={`w-heading cuoke4w c11dowh9 c32myit cwrra4i`}>
+{"Grünere Städte"}
+</Heading>
+<Paragraph
+className={`w-paragraph`}>
+{"Begrünung kann als natürlicher CO2-Speicher agieren. Sie trägt zur Förderung der Luftqualität, als Bildung natürlicher Wasserspeicher, zur Abkühlung der Stadt durch Schattenplätze und zur wiederkehrende Artenvielfalt bei. Weiterhin sind Innovation und Erneuerung in der Energiegewinnung und Speicherung einer der wichtigsten Punkte im Thema Klimaschutz. Investitionen in diesem Sektor würden langzeitig zu mehr Klimaschutz beitragen."}
+</Paragraph>
+<Slot>
+</Slot>
+</Box>
+</Box>
+</Box>
+</Box>
+<Box
+tag={"section"}
+className={`w-box c33xfh3 c1mzb2kd`}>
+<Box
 className={`w-box c1357293 c9jnjeu c5tmc3l c1ldum37 czr2pxy c155uc7w cry9bxc c1lfjoq7 ca4qjwu c1cdc69r c1qyy4dh ct02u4h`}>
 <Box
 className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c1qyy4dh c1wt8a7g c1qom380`}>
@@ -174,7 +226,7 @@ className={`w-bold-text`}>
 </Bold>
 </Heading>
 <Paragraph
-className={`w-paragraph c1nkzcyu c3fmn7t cpp0nin c1qom380 c1dhz37v`}>
+className={`w-paragraph c1nkzcyu c3fmn7t czt9u4x c1qom380 c1dhz37v`}>
 {"Es ist inzwischen unrealistisch den Klimawandel aufzuhalten. Allerdings ist es möglich, die Schäden durch vielversprechende Ansätze zur Verbesserung der Infrastruktur zu minimieren. "}
 </Paragraph>
 </Box>
@@ -353,7 +405,7 @@ className={`w-box copqmak cxjshtx ct8c5y2 c9xr7ng c1qyy4dh cx6c9kw c174sw29`}>
 <Box
 className={`w-box cry9bxc c1lfjoq7 c10zkoym ct8c5y2`}>
 <Paragraph
-className={`w-paragraph cuoke4w cnrz8fp c6oj68y c23h93x cqe39x4`}>
+className={`w-paragraph c23h93x c6oj68y czt9u4x c1qom380 c1nkzcyu cqe39x4`}>
 {"Klimaschützende Maßnahmen sind sehr teuer, doch sie können zukünftig äußerst teuere Schäden durch Umweltkatastrophen verhindern oder zumindest verringern. Somit sind sie ebenfalls ein wirtschaftliches Investment in unsere Zukunft."}
 </Paragraph>
 <Image
@@ -461,79 +513,17 @@ className={`w-paragraph`}>
 <Box
 className={`w-box cry9bxc c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 cdsjpcc c1fd0kk1 cl8xzcs c11gzs80 cv2gy63 cxn73lu c5dy17i c1hsfuam cg37ob1 ctomwfy colzpbp c11pm1bh c17ln3hy ce02iuh`}>
 <Box
-className={`w-box cry9bxc c1lfjoq7 c16xs6ny c1wt8a7g c1z0l37u c1ml0hr7 c3xtjgw`}>
+className={`w-box cry9bxc c1lfjoq7 c16xs6ny c1wt8a7g c1z0l37u c1ml0hr7`}>
 <Heading
 tag={"h3"}
 className={`w-heading cuoke4w c11dowh9 c32myit cwrra4i`}>
 {"Schäden und Entschädigung"}
 </Heading>
-<Paragraph
-className={`w-paragraph`}>
-{"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."}
-</Paragraph>
-</Box>
-</Box>
-<Box
-className={`w-box cry9bxc c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 cv2gy63 cxn73lu c5dy17i c1hsfuam cg37ob1 ce02iuh c15hexcm`}>
-<Box
-className={`w-box cry9bxc c1lfjoq7 c16xs6ny c1wt8a7g c1z0l37u c1ml0hr7`}>
-<Slot>
-<Fragment_1>
-<Box
-className={`w-box c11nr3ex c10r87ok c11dowh9 c32myit cwrra4i csru8nn`}>
-<Slot>
-<Fragment_1>
-<HtmlEmbed
-code={"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 24 24\"><!-- Icon from Myna UI Icons by Praveen Juge - https://github.com/praveenjuge/mynaui-icons/blob/main/LICENSE --><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"m3 5.918l1.764-.887a4.97 4.97 0 0 1 4.472 0l.528.266a4.97 4.97 0 0 0 4.472 0l.528-.266a4.97 4.97 0 0 1 4.472 0L21 5.918M3 10.446l1.764-.888a4.97 4.97 0 0 1 4.472 0l.528.266a4.97 4.97 0 0 0 4.472 0l.528-.266a4.97 4.97 0 0 1 4.472 0l1.764.888M3 14.973l1.764-.888a4.97 4.97 0 0 1 4.472 0l.528.266a4.97 4.97 0 0 0 4.472 0l.528-.266a4.97 4.97 0 0 1 4.472 0l1.764.888M3 19.5l1.764-.887a4.97 4.97 0 0 1 4.472 0l.528.265a4.97 4.97 0 0 0 4.472 0l.528-.265a4.97 4.97 0 0 1 4.472 0L21 19.5\"/></svg>"}
-className={`w-html-embed csru8nn ch2prsz cg4iiql c1qyy4dh ct02u4h`} />
-</Fragment_1>
-</Slot>
-</Box>
-</Fragment_1>
-</Slot>
-<Heading
-tag={"h3"}
-className={`w-heading cuoke4w c11dowh9 c32myit cwrra4i`}>
-{"Elementarschäden-"}
-{""}
-<br />
-{""}
-{"versicherung"}
-</Heading>
-<HtmlEmbed
-code={"<div style=\"width: 300px\">\n  <canvas id=\"chart\"></canvas>\n</div>"}
-clientOnly={true}
-executeScriptOnCanvas={false}
-className={`w-html-embed`} />
-</Box>
-</Box>
-<Box
-className={`w-box cry9bxc c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 cv2gy63 cxn73lu c5dy17i c1hsfuam cg37ob1 ce02iuh c15hexcm`}>
-<Box
-className={`w-box cry9bxc c1lfjoq7 c16xs6ny c1wt8a7g c1z0l37u c1ml0hr7`}>
-<Slot>
-<Fragment_1>
-<Box
-className={`w-box c11nr3ex c10r87ok c11dowh9 c32myit cwrra4i csru8nn`}>
-<Slot>
-<Fragment_1>
-<HtmlEmbed
-code={"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 24 24\"><!-- Icon from Myna UI Icons by Praveen Juge - https://github.com/praveenjuge/mynaui-icons/blob/main/LICENSE --><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"m3 5.918l1.764-.887a4.97 4.97 0 0 1 4.472 0l.528.266a4.97 4.97 0 0 0 4.472 0l.528-.266a4.97 4.97 0 0 1 4.472 0L21 5.918M3 10.446l1.764-.888a4.97 4.97 0 0 1 4.472 0l.528.266a4.97 4.97 0 0 0 4.472 0l.528-.266a4.97 4.97 0 0 1 4.472 0l1.764.888M3 14.973l1.764-.888a4.97 4.97 0 0 1 4.472 0l.528.266a4.97 4.97 0 0 0 4.472 0l.528-.266a4.97 4.97 0 0 1 4.472 0l1.764.888M3 19.5l1.764-.887a4.97 4.97 0 0 1 4.472 0l.528.265a4.97 4.97 0 0 0 4.472 0l.528-.265a4.97 4.97 0 0 1 4.472 0L21 19.5\"/></svg>"}
-className={`w-html-embed csru8nn ch2prsz cg4iiql c1qyy4dh ct02u4h`} />
-</Fragment_1>
-</Slot>
-</Box>
-</Fragment_1>
-</Slot>
-<Heading
-tag={"h3"}
-className={`w-heading cuoke4w c11dowh9 c32myit cwrra4i`}>
-{"Hausratsversicherung"}
-</Heading>
-<Paragraph
-className={`w-paragraph`}>
-{"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."}
-</Paragraph>
+<Image
+src={"/assets/10_07mCszT1SuJp1EdpfUEVl.png"}
+width={976}
+height={1553}
+className={`w-image`} />
 </Box>
 </Box>
 </Box>
@@ -701,11 +691,56 @@ className={`w-paragraph`}>
 </Box>
 </Box>
 </Box>
-<HtmlEmbed
-code={"<script type=\"module\">\n    import Chart from \"https://esm.sh/chart.js/auto\";\n  \n    new Chart(document.getElementById(\"chart\"), {\n      type: \"bar\",\n      data: {\n        labels: [\n          \"Ahrtalflut, Deutschland, 2021\",\n          \"Erdbeben, Mittelitalien, 2016\",\n          \"Flut in Hauts, Frankreich, 2023\",\n        ],\n        datasets: [\n          {\n            label: \"EUSF-Hilfen in Mrd. Euro\",\n            data: [1, 1, 0.46],\n            backgroundColor: \"var(--foreground-accent)\",\n            stack: \"Stack 0\",\n          },\n          {\n            label: \"Schäden in Mrd. Euro\",\n            data: [41, 4, 1],\n            backgroundColor: \"var(--foreground-muted)\",\n            stack: \"Stack 0\",\n          },\n        ],\n      },\n      options: {\n        plugins: {\n          title: {\n            display: true,\n            text: \"Schäden und Entschädigung\",\n          },\n        },\n        responsive: true,\n        interaction: {\n          intersect: false,\n        },\n        scales: {\n          x: {\n            stacked: true,\n          },\n          y: {\n            stacked: true,\n          },\n        },\n      },\n    });\n</script>\n"}
-clientOnly={true}
-executeScriptOnCanvas={false}
-className={`w-html-embed`} />
+<Box
+tag={"footer"}
+className={`w-box c33xfh3 c1mzb2kd`}>
+<Box
+className={`w-box c1357293 c9jnjeu c5tmc3l c1ldum37 czr2pxy c155uc7w cry9bxc c1lfjoq7 c10zkoym ct8c5y2 c1qyy4dh`}>
+<Slot>
+<Fragment_1>
+<Link
+aria-label={"Home"}
+href={"/"}
+className={`w-link czdbake cld4m44 c180fws7 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p c1m1praz c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j cl60rel c1ib9cr2 cnsdrup c4j0o1n`}>
+<Image
+loading={"eager"}
+alt={"Logo"}
+src={"https://ong.berlin/wp-content/uploads/2021/11/ONGLogo.png"}
+width={169}
+height={40}
+className={`w-image`} />
+</Link>
+</Fragment_1>
+</Slot>
+<Paragraph
+className={`w-paragraph c1qom380`}>
+{"Ein Schülerprojekt des Otto-Nagel-Gymnasiums."}
+{""}
+<br />
+{""}
+{"Texte von Jurek Beisker, Greta Krause und Ida Redert."}
+{""}
+<br />
+{""}
+{"Design und Umsetzung von Oskar Manhart."}
+</Paragraph>
+<Box
+className={`w-box cry9bxc c10zkoym ct8c5y2 c1kol985 czqy8m4 c1bulmrh c2nz5dc ctf8nym c6hjwpc`}>
+<Link
+href={"https://mit-license.org/"}
+target={"_blank"}
+className={`w-link c12y6bqh csru8nn c135vpv5 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j cl60rel c1ib9cr2 c1223h70 c4j0o1n c12mjb61`}>
+{"Alle Inhalte unter MIT"}
+</Link>
+<Link
+href={"https://github.com/oskardotglobal/plolitik-website"}
+target={"_blank"}
+className={`w-link c12y6bqh csru8nn c135vpv5 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j cl60rel c1ib9cr2 c1223h70 c4j0o1n c12mjb61`}>
+{"Quelltext"}
+</Link>
+</Box>
+</Box>
+</Box>
 </Body>
 }
 
