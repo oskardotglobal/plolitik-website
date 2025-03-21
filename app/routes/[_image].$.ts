@@ -8,11 +8,9 @@ import {
 } from "ipx";
 import { createApp, toWebHandler } from "h3";
 
-const domains = env.DOMAINS?.split(/\s*,\s*/) ?? [];
-
 const ipx = createIPX({
   storage: ipxFSStorage({ dir: "./public" }),
-  httpStorage: ipxHttpStorage({ domains }),
+  httpStorage: ipxHttpStorage({ allowAllDomains: true }),
 });
 
 const handleRequest = toWebHandler(
