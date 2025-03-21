@@ -8,18 +8,11 @@ export const assetBaseUrl = "/assets/";
  * @type {import("@webstudio-is/image").ImageLoader}
  */
 export const imageLoader = (props) => {
-  if (import.meta.env.DEV) {
-    return props.src;
-  }
-
   if (props.format === "raw") {
     return props.src;
   }
-
-  // https://vercel.com/blog/build-your-own-web-framework#automatic-image-optimization
-  const searchParams = new URLSearchParams();
-  searchParams.set("url", props.src);
-  searchParams.set("w", props.width.toString());
-  searchParams.set("q", props.quality.toString());
-  return `/_vercel/image?${searchParams}`;
+  // handle absolute urls
+  const path = URL.canParse(props.src) ? `/${props.src}` : props.src;
+  // https://github.com/unjs/ipx?tab=readme-ov-file#modifiers
+  return `/_image/w_${props.width},q_${props.quality}${path}`;
 };
